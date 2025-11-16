@@ -12,8 +12,8 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Ellipse
 from scipy.stats import kurtosis
 from scipy.stats import chi2
-import pingouin as pg   # <-- pip install pingouin
-import gzip
+# import pingouin as pg   # <-- pip install pingouin
+# import gzip
 
 
 def load_json(path: str) -> Dict[str, Any]:
