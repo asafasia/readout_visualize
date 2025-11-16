@@ -3,3 +3,4 @@ matplotlib
 zstandard
 ipywidgets
 ipywidgets
+scipy
